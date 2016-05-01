@@ -1,0 +1,16 @@
+body {
+      position: relative; 
+      font-family: Arial, Verdana, sans-serif;
+      background-image: url(rain-drops-1144448_1920.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+footer a { color: floralwhite;}
+  #section1 {}
+  #section2 {}
+  #section3 {}
+  #section4 {}
+.space { padding-top: 100px; padding-bottom: 115px;}
+.space2 { padding-bottom: 50px;}
+.space3 { padding-top: 30px; padding-bottom: 20px;}
+.space4 { padding-top: 50px; padding-bottom: 5px;}
